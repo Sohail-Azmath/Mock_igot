@@ -1,0 +1,6 @@
+{
+  "name": "iGOT Karmayogi Mock",
+  "description": "Mock iGOT Karmayogi LMS integration with REST API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
